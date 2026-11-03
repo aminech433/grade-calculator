@@ -25,11 +25,3 @@ def test_grade_categories():
 
 def test_passing_grade_is_exactly_ten():
     assert is_passing(10) is True
-
-
-def test_passing_grade_is_exactly_ten():
-    assert is_passing(10) is True
-
-
-def test_passing_grade_is_exactly_ten():
-    assert is_passing(10) is True
