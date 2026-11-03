@@ -21,3 +21,4 @@ pytest -v
 flake8 .
 ```
 test
+test ruleset
